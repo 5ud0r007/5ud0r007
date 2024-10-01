@@ -1,5 +1,4 @@
-<div style="display: flex; align-items: flex-start; background-color: black; color: white; font-family: monospace; padding: 20px;">
-  <div>
+<div>
     <p style="text-align:center; font-family: monospace;">
       ⠀⠀⠀⠀⠀⠀⠀⢸⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀ㅤ⠀⠀⠀  ⠀⠀ㅤ⠀⢰⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>
       ⠀⠀⠀⠀⠀⠀⠀⣾⠇⠀⢠⣶⠛⠻⣷⠀⠀⠐⠛⢻⣷⠀⢀⣶⠟⠛⣿⠇⠀⢠⣶⠛⢻⣦⠀⢠⣿⠚⠛⠀⠀⠞⠛⢻⡆⠀⣿⡇⢀⣾⡇⠀⣾⠃⠀⠀⠀⠀⠀⠀<br>
