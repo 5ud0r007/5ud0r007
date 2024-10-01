@@ -10,12 +10,7 @@
 <img src="https://github.com/loaderaw1337/loaderaw1337/blob/main/loaderaw.gif" alt="hidden gif" style="display: none;">
 </div>
 <pre>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                      ..:                                           
+                                                     ..:                                           
                                          ...         .^~.:::. .:.                                   
                               .::^~~~~~~~~~~^~!!!^:..~Y!:  ^7^::....                                
                            ::^^~^^~~~~!!~~~~^::^^~!^^!J^^!?7^::^~^^~~^:.                            
