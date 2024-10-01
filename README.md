@@ -7,6 +7,11 @@
     </p>
     <img src="https://github.com/loaderaw1337/loaderaw1337/blob/main/loaderaw.gif" alt="Loader GIF" style="margin-right: 20px;">
     <p>
+    |  __ \ / __ \ \ / /  _ \_   _| \ | |<br>
+    | |  | | |  | \ V /| |_) || | |  \| |<br>
+    | |  | | |  | |> < |  _ < | | | . ` |<br>
+    | |__| | |__| / . \| |_) || |_| |\  |<br>
+    |_____/ \____/_/ \_\____/_____|_| \_|<br>
     𝑰𝑵𝑻𝑬𝑹𝑵𝑬𝑻_𝑭𝑼𝑪𝑲_𝑭𝑼𝑪𝑲
     </p>
 </div>
