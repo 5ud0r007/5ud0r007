@@ -6,6 +6,4 @@
       ⠀⠀⠀⠀⠀⠀⢠⣿⠀⠀⣿⡇⠀⣰⡿⠀⣠⡴⠒⢺⡟⠀⣼⡏⠀⢠⣿⠀⠀⣾⡏⠉⠉⠉⠀⣸⡇⠀⠀⠀⣤⠖⠒⣿⠇⠀⢹⣇⡞⢹⣇⣼⠃⠀⠀⠀⠀⠀⠀⠀<br>
       ⠀⠀⠀⠀⠀⠀⠸⠇⠀⠀⠙⠷⠾⠛⠁⠀⠻⠷⠖⠿⠃⠀⠘⠿⠖⠻⠇⠀⠀⠙⠷⠶⠚⠀⠀⠿⠁⠀⠀⠀⠻⠶⠺⠿⠀⠀⠸⠟⠁⠸⠿⠃⠀⠀⠀⠀⠀⠀⠀<br>
     </p>
-    <img src="https://github.com/loaderaw1337/loaderaw1337/raw/main/loaderaw.gif" alt="Loader GIF" style="width: 100px; height: 100px; opacity: 0; pointer-events: none;">
-  </div>
-</div>
+  <img src="https://github.com/loaderaw1337/loaderaw1337/blob/main/loaderaw.gif" alt="Loader GIF" style="margin-right: 20px;">
