@@ -7,6 +7,6 @@
     </p>
     <img src="https://github.com/loaderaw1337/loaderaw1337/blob/main/loaderaw.gif" alt="Loader GIF" style="margin-right: 20px;">
     <p>
-    𝑰𝑵𝑻𝑬𝑹𝑵𝑬𝑻_𝑭𝑼𝑪𝑲_𝑭𝑼𝑪𝑲
+   DEF: 𝑰𝑵𝑻𝑬𝑹𝑵𝑬𝑻_𝑭𝑼𝑪𝑲_𝑭𝑼𝑪𝑲
     </p>
 </div>
