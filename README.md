@@ -51,7 +51,7 @@
 <div>
   <div>
 
-<img align='right' height='500' width='500' src="https://github.com/5ud0r007/5ud0r007/blob/main/c2e638163c830cd682928efe20d86f88.gif"/>
+<img align='right' height='500' width='1000' src="https://github.com/5ud0r007/5ud0r007/blob/main/6e9de3900c891f944397f6e2949f4bea.gif"/>
 
 </div>
 
@@ -61,5 +61,4 @@
 ### 𒉭 Age: ??
 ### 𒉭 Development: ??????????? ??????????
 
-<img align='right' height='100' width='300' src="https://github.com/5ud0r007/5ud0r007/blob/main/6e9de3900c891f944397f6e2949f4bea.gif"/>
 
