@@ -73,7 +73,7 @@
 <div>
   <div>
 
-<img align='right' height='500' width='500' src="https://github.com/otsairaze/otsairaze/blob/main/assets/ba235437871943bb820f0454f45ab0dd.gif"/>
+<img align='right' height='500' width='500' src="https://github.com/5ud0r007/5ud0r007/blob/main/39401ca248da48da93469e6545750ee1.gif"/>
 
 </div>
 
