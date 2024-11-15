@@ -53,7 +53,7 @@
 ![adobephotoshop](https://img.shields.io/badge/adobephotoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
 ![adobephotoshop](https://img.shields.io/badge/adobephotoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
 ![adobephotoshop](https://img.shields.io/badge/adobephotoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
-
+![adobephotoshop](https://img.shields.io/badge/adobephotoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
 </div>
 </div>
 
