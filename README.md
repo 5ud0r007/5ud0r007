@@ -60,5 +60,4 @@
 ### 𒉭 Name: LOADERAW
 ### 𒉭 Age: LOADERAW
 ### 𒉭 Development: LOADERAW
-### 𒉭 DOX: BY ORDER
 ### 𒉭 INTERNET-FUCK_FUCK: LOADERAW
