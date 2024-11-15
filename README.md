@@ -57,8 +57,8 @@
 
 <div align='left' height='800'>
   
-### 𒉭 Name: ????
-### 𒉭 Age: ??
-### 𒉭 Development: ??????????? ??????????
-
-
+### 𒉭 Name: LOADERAW
+### 𒉭 Age: LOADERAW
+### 𒉭 Development: LOADERAW
+### 𒉭 DOX: BY ORDER
+### 𒉭 INTERNET-FUCK_FUCK: LOADERAW
