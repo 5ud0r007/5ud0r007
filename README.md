@@ -13,8 +13,6 @@
 ![css3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=fff)
 ![javascript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=fff)
 ![sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass&logoColor=fff)
-![less](https://img.shields.io/badge/less-000?style=for-the-badge&logo=less&logoColor=fff)
-![tailwindcss](https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 ![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=fff)
 
 ### 𒌐 UI Library:
