@@ -50,9 +50,9 @@
 
 ### 𒌐 Tools:
 
-![figma](https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma&logoColor=fff)
 ![adobephotoshop](https://img.shields.io/badge/adobephotoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
-![adobeillustrator](https://img.shields.io/badge/adobeillustrator-000?style=for-the-badge&logo=adobeillustrator&logoColor=fff)
+![adobephotoshop](https://img.shields.io/badge/adobephotoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
+![adobephotoshop](https://img.shields.io/badge/adobephotoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
 
 </div>
 </div>
