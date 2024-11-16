@@ -54,6 +54,52 @@
 
 <div align = "right">
   
+> 👆 This Profile design is <a href = "https://github.com/ABER1047/PrettierGithub">one of my works</a>!
+> 
+> 요렇게 이쁘게 프로필을 <a href = "https://github.com/ABER1047/PrettierGithub">꾸며보세요!</a>
+
+</div>
+
+</div>
+
+
+
+
+
+</div>
+<!-- </br> -->
+
+## <img width = "28px" src = "imgs/icon_1.gif"></img> About me
+
+* #### <img width = "26px" src = "imgs/icon_28.gif"></img> Hello!
+  * ###### I'm a person who is living in South Korea
+  * ###### Currently in 2nd year of computer software engineering</br>[scheduled to serve in the Air Force - 14/10/2024 ~ 14/7/2026]
+  * ###### I like everything related to games and that's why I am learning drawings and music making to make my indie games
+  * ###### And also I'm interested in everything related to computers that's why I've learned programing and etc.
+
+</br>
+
+* #### <img width = "28px" src = "imgs/icon_18.gif"></img> Lang
+  * ###### I can speak English and Japanese </br>I’ve studied English and Japanese with books and native speaker friends.
+
+</br>
+
+* #### <img width = "28px" src = "imgs/icon_20.gif"></img> Solved.ac [S2]
+  * ###### Currently learning various algorithms with solving some problems
+ 
+</br>
+
+<details>
+  <summary><b><img width = "28px" src = "imgs/icon_2.gif"></img> Stats [Click to expand)</b></summary>
+
+  | [![trophy](https://github-profile-trophy.vercel.app/?username=ABER1047&theme=chalk&margin-h=15&no-frame=true&no-bg=true&row=2&column=3)](https://github.com/ABER1047/github-profile-trophy) | ![ABER*](https://github-readme-stats.vercel.app/api?username=ABER1047&show_icons=true&count_private=true&theme=github_dark&text_color=white&hide_border=true&custom_title=ABER*) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aber1047)]() |
+  |--|--|--|
+  
+</details>
+
+
+
+##
 
 
 
